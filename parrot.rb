@@ -2,7 +2,8 @@
 # returns the phrase
 def parrot(phrase, phrase="Squawk!")
   puts "phrase"
-  return ""
+  return "phrase"
+end
   
   def print_and_return_name
   puts "Guy Fieri"
