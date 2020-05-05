@@ -1,7 +1,7 @@
 def parrot(string, phrase="Squawk!")
-  string = "Polly want cracker with #{phrase}"
-  puts "string #{phrase}"
-  return phrase
+  string = "Polly want cracker"
+  puts "string"
+  return string
 end
   
  
