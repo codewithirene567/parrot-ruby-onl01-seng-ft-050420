@@ -1,6 +1,5 @@
 def parrot( phrase="Squawk!")
- 
-  puts "string"
+ puts "string"
   return string
 end
   
