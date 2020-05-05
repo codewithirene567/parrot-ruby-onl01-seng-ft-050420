@@ -3,9 +3,5 @@ def parrot(string, phrase="Squawk!")
   puts "string #{phrase}"
   return phrase
 end
-  def stylish_chef
-  best_hairstyle = "Guy Fieri"
-  return "Martha Stewart"
-  "Guy Fieri"
-end
+  
  
