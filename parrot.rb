@@ -1,5 +1,5 @@
-def parrot(string, phrase="Squawk!")
-  string = "Polly want cracker"
+def parrot( phrase="Squawk!")
+ 
   puts "string"
   return string
 end
